@@ -4,7 +4,7 @@
 ```json
 {
     "status" : "success",
-    "date": "2019-07-08T02:28:17.081Z",
+    "date": "2019-07-15T17:40:55.682+08:00",
     "data": {
         "users" : [
             { "id": 1, "name": "Jane Doe", "group": 1 },
@@ -22,10 +22,9 @@
 ```json
 {
     "status" : "error",
-    "date": "2019-07-08T02:28:17.081Z",
+    "date": "2019-07-15T17:40:55.682+08:00",
     "code": "ERR-500",
     "message": "Cannot establish the backside connection"
-    "
 }
 ```
 
@@ -33,7 +32,7 @@
 ```json
 {
     "status" : "failed",
-    "date": "2019-07-08T02:28:17.081Z",
+    "date": "2019-07-15T17:40:55.682+08:00",
     "code": "RUL-001",
     "message": "The email column is invalid in format"
 }
