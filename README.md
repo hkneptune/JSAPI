@@ -41,7 +41,7 @@
 ## Database
 ```json
 {
-    "status": "success"
+    "status": "success",
     "date": "2019-07-15T17:40:55.682+08:00",
     "data": {
         "fields": [
